@@ -8,4 +8,5 @@ Aplikacja ma służyć do zapisywania terminów sprawdzianów oraz kartkówek w 
 = Rozkład pracy =
 
 Twórcy porojektu są zpisani w dokumentacji w folderze Docs.
+
 Moim zadaniem było stworzenie interaktywnego kalendarza, zapisów i odczytów z plików oraz przypisanie tych funkcji do przycisków.
