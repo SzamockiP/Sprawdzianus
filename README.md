@@ -13,10 +13,6 @@
 
 <p>This is a Windows Forms application written in C#.</p>
 
-<h2>Why Sprawdzianus?</h2>
-
-<p>If you are looking for a tool to help manage test and quiz dates in a simple and organized way, then Sprawdzianus is the perfect solution for you. With its user-friendly interface and a variety of features, the app will make it easy for you to keep track of all your test dates and stay on top of your academic responsibilities.</p>
-
 <h2>Contributors</h2>
 
 <p>This project was created by a three-person team who collaborated to bring the idea to life.</p>
