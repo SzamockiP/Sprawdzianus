@@ -1,12 +1,23 @@
-# Sprawdzianus
-Planner for organizing cards and tests
+<h1>Sprawdzianus</h1>
+<p>Sprawdzianus is an application designed to help organize test and quiz dates in an easy and readable way. The app was created as part of a group project in the desktop application design course, where a three-person team worked together to bring the idea to life.</p>
 
-= Przeznaczenie =
+<h2>Functionality</h2>
 
-Aplikacja ma służyć do zapisywania terminów sprawdzianów oraz kartkówek w łatwy i czytelny sposób.
+<p>The app offers various features that allow users to manage test and quiz dates effectively, including a test schedule, adding tests to the schedule, adding tests and subjects to the database, deleting tests and subjects from the database, and changing the application's font size and color.</p>
 
-= Rozkład pracy =
+<h2>Work Breakdown</h2>
 
-Twórcy porojektu są zpisani w dokumentacji w folderze Docs.
+<p>The creators of the project are listed in the documentation folder, which can be found in the Docs folder. My responsibility was to create an interactive calendar, file read/write functionality, and to assign these functions to buttons.</p>
 
-Moim zadaniem było stworzenie interaktywnego kalendarza, zapisów i odczytów z plików oraz przypisanie tych funkcji do przycisków.
+<h2>Technology Stack</h2>
+
+<p>This is a Windows Forms application written in C#.</p>
+
+<h2>Why Sprawdzianus?</h2>
+
+<p>If you are looking for a tool to help manage test and quiz dates in a simple and organized way, then Sprawdzianus is the perfect solution for you. With its user-friendly interface and a variety of features, the app will make it easy for you to keep track of all your test dates and stay on top of your academic responsibilities.</p>
+
+<h2>Contributors</h2>
+
+<p>This project was created by a three-person team who collaborated to bring the idea to life.</p>
+
